@@ -1,0 +1,3 @@
+rootProject.name='Dynamic Feature Checksum'
+include ':app'
+include ':dynamicfeature'

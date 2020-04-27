@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dynamic Feature Checksum</string>
+    <string name="navigate_to_dynamic_feature">Navigate to Dynamic Feature</string>
+    <string name="title_dynamicfeature">Dynamic Feature</string>
+</resources>
