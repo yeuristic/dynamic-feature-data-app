@@ -1,3 +1,3 @@
 Usage:
-./install app:bundleDebug
+`./install app:bundleDebug`
 this will use fake install manager
