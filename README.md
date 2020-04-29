@@ -8,5 +8,5 @@ If you can't use install script you can do these steps manually:
 1. unzip apks: `unzip "<output.apks>" -d "tempDir/apks"`
 1. these split apk will be pushed to `$apksDir= /sdcard/Android/data/$package/files/splits`
 1. clean target directory: `adb shell rm -rf "$apksDir"`
-1. push apks to target directory: `adb push "$tmpDir/apks/splits" "$apksDir"`
+1. push apks to target directory: `adb push "tempDir/apks/splits" "$apksDir"`
 1. launch app
